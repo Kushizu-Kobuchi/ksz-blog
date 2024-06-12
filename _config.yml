@@ -1,4 +1,4 @@
-remote_theme: jekyll-rtd-theme
+theme: Midnight
 title : title
 author : author
 description : description
