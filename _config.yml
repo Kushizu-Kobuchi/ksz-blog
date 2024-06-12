@@ -1,1 +1,4 @@
-theme : minima
+remote_theme: jekyll-rtd-theme
+title : title
+author : author
+description : description
