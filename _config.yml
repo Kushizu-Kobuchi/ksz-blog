@@ -2,3 +2,6 @@ theme: minima
 title : 槐安城连锁包子铺
 author : Kushizu Kobuchi
 description : 中国兎、現在散歩謳歌中。
+
+kramdown:
+  math_engine: MathJax
